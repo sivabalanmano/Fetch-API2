@@ -1,0 +1,63 @@
+body{
+    background: yellow;
+}
+header{
+    border: 2px solid black;
+}
+#hed{
+    margin-left: 5%;
+    padding: 10px;
+    size: 2rem;
+    color:yellow;
+    border: 2px solid yellow; 
+    border-radius: 25px 0 25px 0; 
+    transition: 1s;       
+}
+#hed:hover{
+    background: yellow;
+    color: black;
+
+}
+#nweee{
+    padding: 10px;
+    margin-right: 50px;
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.navbar-toggler-icon{
+    color: yellow;
+    background-color: yellow;
+    border-radius: 2px solid yellow;
+}
+form{
+    border-radius: 25px 25px 25px;
+    background-color: white;
+    border: 3px solid black;
+    margin:10%;
+    padding: 50px;
+    box-shadow: 8px 8px 10px black;
+
+}
+input{
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 8px 8px 10px  yellow;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+h2{
+    padding: 20px;
+    background: whitesmoke;
+    align-items: center;
+    text-align: center;
+}
+#no{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+}
